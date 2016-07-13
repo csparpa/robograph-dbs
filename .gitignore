@@ -1,0 +1,10 @@
+*.log
+*.pyc
+.idea
+.cache
+
+build/
+dist/
+robograph.egg-info/
+
+datamodel/tests/database.db
